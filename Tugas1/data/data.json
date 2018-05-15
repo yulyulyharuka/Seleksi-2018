@@ -1,0 +1,820 @@
+{
+  "items": [
+    {
+      "brand": "Berrybenka Label",
+      "name": "Ilima Vest Grey",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Cardigan"
+      ],
+      "description": "Ilima Vest Grey Tampil gaya dengan mengenakan luaran vest tanpa lengan ini! Memiliki model simpel dengan detail bulu. Padankan dengan dalaman tanpa lengan dan celana panjang slim fit serta heels!\n",
+      "price": "IDR259.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "31"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Ilima Vest Pink",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Cardigan"
+      ],
+      "description": "Ilima Vest Pink Tampil gaya dengan mengenakan luaran vest tanpa lengan ini! Memiliki model simpel dengan detail bulu. Padankan dengan dalaman tanpa lengan dan celana panjang slim fit serta heels!\n",
+      "price": "IDR259.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "36"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sonime Shirt Dress Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Kemeja"
+      ],
+      "description": "Sonime Shirt Dress Pink Tampil chic dengan mengenakan atasan lengan panjang ini! Memiliki motif polkadot dengan detail kancing. Padankan dengan celana panjang slim fit dan strap heels favoritmu!\n",
+      "price": "IDR249.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "22"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sorida Ruffle Dress Grey",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sorida Ruffle Dress Grey Tampil gaya dengan mengenakan dress lengan panjang ini! Memiliki model simpel dengan aksen ruffle. Padankan dengan sneakers untuk tampilan casual!\n",
+      "price": "IDR229.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "57"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sorida Ruffle Dress Pink",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sorida Ruffle Dress Pink Tampil gaya dengan mengenakan dress lengan panjang ini! Memiliki model simpel dengan aksen ruffle. Padankan dengan sneakers untuk tampilan casual!\n",
+      "price": "IDR229.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "53"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sabina Wrap Dress Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Sabina Wrap Dress Pink Dress santail yang bisa kamu kenakan dengan rok hingga celana untuk gaya yang lebih berbeda, motif yang cantik cocok kamu padukan dengan gaya casual femininemu\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "48"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sabina Wrap Dress Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Sabina Wrap Dress Navy Dress santail yang bisa kamu kenakan cengan rok hingga celana untuk gaya yang lebih berbeda, motif yang cantik cocok kamu padukan dengan gaya casual femininemu\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "56"
+        }
+      ]
+    },
+    {
+      "brand": "len Ross",
+      "name": "Dimie Plain Blouse in Tosca",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Dimie Plain Blouse in Tosca Blouse lengan panjang dengan aksen tali pita pada ujung lengan yang cocok kamu padukan dengan gaya casualmu\n",
+      "price": "IDR170.200",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "6"
+        }
+      ]
+    },
+    {
+      "brand": "len Ross",
+      "name": "Dimie Plain Blouse in Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Dimie Plain Blouse in Pink Blouse lengan panjang dengan aksen tali pita pada ujung lengan yang cocok kamu padukan dengan gaya casualmu\n",
+      "price": "IDR170.200",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "7"
+        }
+      ]
+    },
+    {
+      "brand": "len Ross",
+      "name": "Edge Embo Blouse in Milo",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Edge Embo Blouse in Milo Tampil gaya dengan atasan blus lengan panjang yang terdapat detail bordir. Padankan dengan celana palazzo dan heels.\n",
+      "price": "IDR170.200",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "5"
+        }
+      ]
+    },
+    {
+      "brand": "len Ross",
+      "name": "Edge Embo Blouse in Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Edge Embo Blouse in Pink Tampil gaya dengan atasan blus lengan panjang yang terdapat detail bordir. Padankan dengan celana palazzo dan heels.\n",
+      "price": "IDR170.200",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "4"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sozeta Dress Brown",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sozeta Dress Brown Tampil cantik dengan mengenakan dress lengan panjang ini! Memiliki motif prints dengan detail pita. Padankan dengan strap heels warna netral favoritmu!\n",
+      "price": "IDR269.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "11"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sozeta Dress Blue",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sozeta Dress Blue Tampil cantik dengan mengenakan dress lengan panjang ini! Memiliki motif prints dengan detail pita. Padankan dengan strap heels warna netral favoritmu!\n",
+      "price": "IDR269.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "23"
+        }
+      ]
+    },
+    {
+      "brand": "Kulo",
+      "name": "SALMA DRESS",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "SALMA DRESS Dress kaftan pendek dengan motif cantik yang cocok kamu padukan dengan mules nude untuk tampilan formalmu\n",
+      "price": "IDR175.500",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "5"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sakura Dress Blue",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sakura Dress Blue Dress santai dengan motif garis-garis trendi dan aksen tali pita pada pinggang. Padukan dengan flat shoes andalanmu\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "52"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sakura Dress Red",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Sakura Dress Red Dress santai dengan motif garis-garis trendi dan aksen tali pita pada pinggang. Padukan dengan flat shoes andalanmu\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "58"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sasha Denim Blazer Dark Blue",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Blazer"
+      ],
+      "description": "Sasha Denim Blazer Dark Blue Luaran blazer lengan panjang untuk memaksimalkan tampilan chic kamu! Memiliki motif stripes dengan detail kancing. Padankan dengan dalaman blus dan celana panjang slim fit serta heels!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "57"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sasha Denim Blazer Light Blue",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Blazer"
+      ],
+      "description": "Sasha Denim Blazer Light Blue Luaran blazer lengan panjang untuk memaksimalkan tampilan chic kamu! Memiliki motif stripes dengan detail kancing. Padankan dengan dalaman blus dan celana panjang slim fit serta heels!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "51"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Becarla Pearl Sweater Stripe Mustard",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Sweater"
+      ],
+      "description": "Becarla Pearl Sweater Stripe Mustard Tampil gaya dengan mengenakan atasan lengan panjang ini! Memiliki aksen mutiara yang unik. Padankan dengan celana panjang denim dan sneakers untuk tampilan casual!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "54"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Bethany Sweater Dusty Pink",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Sweater"
+      ],
+      "description": "Bethany Sweater Dusty Pink Tampil gaya dengan mengenakan atasan lengan panjang ini! Memiliki model simpel dengan bahan yang nyaman. Padankan dengan celana panjang denim dan sneakers!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "53"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sovani Stripe Blouse Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Sovani Stripe Blouse Navy Blouse bermotif garis-garis untuk tampilan casual. Paddankan dengan celana strap pants dan sepatu sneakers.\n",
+      "price": "IDR159.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "44"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Xevina White Line Pants Cream",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Xevina White Line Pants Cream Tampil gaya dengan mengenakan celana panjang ini! Memiliki model simpel dengan detail garis putih. Padankan dengan atasan kaos dan sneakers favoritmu!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "58"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Virza Ruffle Stripe Pants White",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Virza Ruffle Stripe Pants White Tampil gaya dengan mengenakan celana panjang ini! Memiliki model unik dengan motif stripes. Padankan dengan atasan crop tanpa lengan dan sneakers favoritmu!\n",
+      "price": "IDR319.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "59"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vitrini Stripe Tie Blouse White",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vitrini Stripe Tie Blouse White Tampil gaya dengan atasan lengan panjang beraksen tali yang diikat menyilang pada bagian perut. Padankan dengan celana denim dan sepatu hak tinggi untuk tampilan kasual.\n",
+      "price": "IDR279.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "52"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Viro Ruffle Sleeve Blouse Yellow",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Viro Ruffle Sleeve Blouse Yellow Atasan kuning cerah dengan aksen lengan loncengn berlayer ynag unik, padukan dengan gaya casual hingga formal kekantor.\n",
+      "price": "IDR299.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "44"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Viola Lining Pants Black",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Viola Lining Pants Black Stripes pants simple untuk tampilan casual trendi. Padankan dengan atasan bermotif garis dan sepatu sneakers.\n",
+      "price": "IDR319.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "60"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vienna Ruffle Blouse Grey",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vienna Ruffle Blouse Grey Blouse lengan panjang dengan aksen ruffle pada bagian depan yang cocok kamu padukan dengan celana lining untuk gaya casual\n",
+      "price": "IDR299.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "32"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vienna Ruffle Blouse Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vienna Ruffle Blouse Pink Blouse lengan panjang dengan aksen ruffle pada bagian depan yang cocok kamu padukan dengan celana lining untuk gaya casual\n",
+      "price": "IDR299.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "38"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vivian Stripe Ruffle White",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vivian Stripe Ruffle White Tampil gaya dengan switer lengan panjang bermotif garis warna kombinasi. Padankan dengan celana denim dan sepatu sneakers untuk tampilan kasual.\n",
+      "price": "IDR269.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "43"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vica Ribbon Short Sleeve Black",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vica Ribbon Short Sleeve Black blouse lengan pendek dengan list pita yang trendi, padukan dengan celana jeans andalanmu\n",
+      "price": "IDR249.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "57"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Vimala Stripe Blouse White Black",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Vimala Stripe Blouse White Black Tampil gaya dengan switer lengan panjang bermotif garis warna kombinasi. Padankan dengan celana denim dan sepatu sneakers untuk tampilan kasual.\n",
+      "price": "IDR289.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "58"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Mojiru Square Blouse Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Mojiru Square Blouse Navy Tampil chic dengan mengenakan atasan lengan panjang ini! Memiliki model simpel dengan motif stripes. Padankan dengan celana panjang slim fit dan loafers favoritmu!\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "45"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Moradi Shirt Blue",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Kemeja"
+      ],
+      "description": "Moradi Shirt Blue Atasan kemeja lengan panjang untuk tampilan chic kamu! Memiliki model simpel dengan detail kancing. Padankan dengan celana panjang slim fit dan loafers favoritmu!\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "55"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Mobia Stripe Outer Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Mobia Stripe Outer Navy Tampil gaya dengan mengenakan atasan lengan 3/4 ini! Memiliki model simpel dengan motif stripes. Padankan dengan celana kulot dan sneakers favoritmu!\n",
+      "price": "IDR229.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "56"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Molase Shirt Stripe Ruffle Blue",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Kemeja"
+      ],
+      "description": "Molase Shirt Stripe Ruffle Blue Atasan kemeja lengan panjang untuk tampilan casual chic kamu! Memiliki aksen ruffle dengan detail kancing di bagian depan. Padankan dengan celana panjang slim fit dan slip on favoritmu!\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "58"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Mocasa Shirt Pocket Stripe Blue",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Kemeja"
+      ],
+      "description": "Mocasa Shirt Pocket Stripe Blue Atasan kemeja lengan panjang untuk tampilan casual kamu! Memiliki model simpel dengan detail kancing. Padankan dengan celana panjang denim dan sneakers favoritmu!\n",
+      "price": "IDR199.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "49"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Mokino Shirt Dress Blue",
+      "categories": [
+        "Pakaian",
+        "Dress",
+        "Santai"
+      ],
+      "description": "Mokino Shirt Dress Blue Tampil gaya dengan mengenakan dress lengan pendek ini! Memiliki model simpel dengan detail kancing di bagian depan. Padankan dengan sneakers untuk tampilan casual kamu!\n",
+      "price": "IDR259.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "22"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sabala Flower Blouse Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Sabala Flower Blouse Pink Blouse lengan panjang dengan detail floral print di bagian lengan. Padankan dengan celana panjang warna mustard dan sepatu hak tinggi.\n",
+      "price": "IDR179.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "51"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Sabala Flower Blouse Dark Grey",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Sabala Flower Blouse Dark Grey Blouse lengan panjang dengan detail floral print di bagian lengan. Padankan dengan celana panjang warna mustard dan sepatu hak tinggi.\n",
+      "price": "IDR179.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "47"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Staya Flower Pants Brown",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Staya Flower Pants Brown Tampil cantik dengan mengenakan celana panjang ini! Memiliki motif floral prints dengan detail tali di bagian pinggang. Padankan dengan atasan tanpa lengan dan heels favoritmu!\n",
+      "price": "IDR169.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "59"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Staya Flower Pants Navy",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Staya Flower Pants Navy Tampil cantik dengan mengenakan celana panjang ini! Memiliki motif floral prints dengan detail tali di bagian pinggang. Padankan dengan atasan tanpa lengan dan heels favoritmu!\n",
+      "price": "IDR169.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "54"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Tevi Eyelet Blouse Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Tevi Eyelet Blouse Navy Atasan lengan panjang untuk tampilan casual chic kamu! Memiliki model simpel dengan aksen ring. Padankan dengan celana panjang denim dan loafers untuk tampilan casual!\n",
+      "price": "IDR209.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "53"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Tezo Shirt Pink",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Kemeja"
+      ],
+      "description": "Tezo Shirt Pink Tampil gaya dengan mengenakan atasan lengan panjang ini! Memiliki model simpel dengan aksen monokrom. Padankan dengan celana panjang denim dan sneakers favoritmu!\n",
+      "price": "IDR179.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "46"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Tebi Tied Blouse Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Tebi Tied Blouse Navy Tampil gaya dengan mengenakan atasan lengan panjang ini! Memiliki model simpel dengan detail tali dibagian pinggang. Padankan dengan celana panjang slim fit dan strap heels favoritmu!\n",
+      "price": "IDR249.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "59"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Tena Blouse Navy",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Tena Blouse Navy Tampil gaya dengan mengenakan atasan lengan pendek ini! Memiliki model yang simpel dengan aksen tali di bagian lengan. Padankan dengan celana kulot dan loafers favoritmu!\n",
+      "price": "IDR229.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "53"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Tena Blouse Brown",
+      "categories": [
+        "Pakaian",
+        "Atasan",
+        "Blus"
+      ],
+      "description": "Tena Blouse Brown Tampil gaya dengan mengenakan atasan lengan pendek ini! Memiliki model yang simpel dengan aksen tali di bagian lengan. Padankan dengan celana kulot dan loafers favoritmu!\n",
+      "price": "IDR229.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "57"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Knitted Pallazo Pants Grey White",
+      "categories": [
+        "Pakaian",
+        "Bawahan",
+        "Celana Panjang"
+      ],
+      "description": "Knitted Pallazo Pants Grey White celana pallazo bermotif dengan bahan knitted yang menawan cocok kamu padukan dengan gaya casual andalan.\n",
+      "price": "IDR319.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "110"
+        }
+      ]
+    },
+    {
+      "brand": "Berrybenka Label",
+      "name": "Knitted Long Sleeve Mustard",
+      "categories": [
+        "Pakaian",
+        "Outerwear",
+        "Sweater"
+      ],
+      "description": "Knitted Long Sleeve Mustard Sweater lengan panjang pada bagian samping yang cocok kamu padukan dengan jeans berpotongan unik.\n",
+      "price": "IDR299.000",
+      "stock": [
+        {
+          "size": "ONE SIZE",
+          "stock": "118"
+        }
+      ]
+    }
+  ]
+}

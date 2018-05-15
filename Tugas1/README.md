@@ -8,10 +8,14 @@
 <h2 align="center">
   <br>
   Data Scraping
+  Scraping Data from Berrybenka
   <br>
   <br>
 </h2>
 
+### Description
+Sebuah program simpel dengan bahasa Python. Program ini melakukan web scraping dari web Berrybenka.
+Data yang diambil merupakan data penjualan pakaian dari web Berrybenka.
 
 ### Specifications
 
@@ -68,16 +72,33 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat BerEksplorasi!
-  <br>
-  <br>
-</h1>
+### How to Use
+1. Open terminal in your computer
+2. Change the directory to where you save the file
+3. Run this program with the command -> python coba.py
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2018
-  <br>
-  <br>
-</p>
+or you can run the Makefile with the command "make" if you using Linux
+
+### JSON Structure
+Each tuple of item data contains :
+1. The brand of the Clothing
+2. The name of the Clothing Product
+3. The category of the Clothing Product
+4. The description of the Product
+5. The price of the Clothing Product
+6. The availability of the product (per each size)
+
+### Screenshot
+
+
+### Reference
+Library that I used :
+1. BeautifulSoup4 for html parser
+2. time for command sleep give period 
+3. json for save the result into .json file 
+4. urllib.request to get the html script from the url that we want
+
+### Author
+Nama		: Yuly Haruka Berliana Gunawan
+Email		: yulyharuka@gmail.com
+			  13516031@std.stei.itb.ac.id
