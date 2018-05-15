@@ -108,6 +108,6 @@ Library that I used :
 4. urllib.request to get the html script from the url that we want
 
 ### Author
-Nama		: Yuly Haruka Berliana Gunawan
+Nama		: Yuly Haruka Berliana Gunawan <br>
 Email		: yulyharuka@gmail.com
 			  13516031@std.stei.itb.ac.id
