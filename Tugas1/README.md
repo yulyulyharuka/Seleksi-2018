@@ -90,6 +90,14 @@ Each tuple of item data contains :
 
 ### Screenshot
 
+Screenshot 1
+![alt_text](https://github.com/yulyulyharuka/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot1.jpg)
+
+Screenshot 2
+![alt_text](https://github.com/yulyulyharuka/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot2.jpg)
+
+Screenshot 3
+![alt_text](https://github.com/yulyulyharuka/Seleksi-2018/blob/master/Tugas1/screenshots/screenshot3.jpg)
 
 ### Reference
 Library that I used :
